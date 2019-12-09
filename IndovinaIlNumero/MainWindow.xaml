@@ -21,7 +21,7 @@
                     <RotateTransform/>
                     <TranslateTransform X="0.569"/>
                 </TransformGroup>
-            </TextBlock.RenderTransform><Run Text="Inserisci un numero da 1 a "/><Run Text="100"/></TextBlock>
+            </TextBlock.RenderTransform><Run Text="Inserisci un numero da 1 a "/><Run Text="1"/><Run Text="00"/></TextBlock>
         <TextBox HorizontalAlignment="Left" Height="38" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" Margin="305,90,0,0"/>
         <TextBlock HorizontalAlignment="Left" Height="30" Margin="25,150,0,0" TextWrapping="Wrap" Text="Che numero pensi sia uscito ?" VerticalAlignment="Top" Width="260" Foreground="Yellow" FontSize="18"/>
         <TextBox HorizontalAlignment="Left" Height="38" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" Margin="305,142,0,0"/>

@@ -23,6 +23,10 @@ namespace IndovinaIlNumero
         public MainWindow()
         {
             InitializeComponent();
+             
+             
+             
+             
         }
     }
 }
